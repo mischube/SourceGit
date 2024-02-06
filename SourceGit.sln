@@ -4,12 +4,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGit", "SourceGit\Sour
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGit.Test", "SourceGit.Test\SourceGit.Test.csproj", "{AAC754D8-5282-4A33-B089-50DA18CD1D9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGenerators1", "SourceGenerators1\SourceGenerators1\SourceGenerators1.csproj", "{D44E99F6-A7CA-4555-B29E-D3349DABE9B9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGenerators1.Sample", "SourceGenerators1\SourceGenerators1.Sample\SourceGenerators1.Sample.csproj", "{1275C3E1-3A17-4E33-B4EC-CCD4B059680A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGenerators1.Tests", "SourceGenerators1\SourceGenerators1.Tests\SourceGenerators1.Tests.csproj", "{416CC5C6-4422-4FEF-989E-D62C9677BFB5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGit.Sample", "SourceGit.Sample\SourceGit.Sample.csproj", "{2F8D18BC-58A1-4213-AADF-7673DDD05847}"
 EndProject
 Global
@@ -26,18 +20,6 @@ Global
 		{AAC754D8-5282-4A33-B089-50DA18CD1D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAC754D8-5282-4A33-B089-50DA18CD1D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAC754D8-5282-4A33-B089-50DA18CD1D9E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D44E99F6-A7CA-4555-B29E-D3349DABE9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D44E99F6-A7CA-4555-B29E-D3349DABE9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D44E99F6-A7CA-4555-B29E-D3349DABE9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D44E99F6-A7CA-4555-B29E-D3349DABE9B9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1275C3E1-3A17-4E33-B4EC-CCD4B059680A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1275C3E1-3A17-4E33-B4EC-CCD4B059680A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1275C3E1-3A17-4E33-B4EC-CCD4B059680A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1275C3E1-3A17-4E33-B4EC-CCD4B059680A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{416CC5C6-4422-4FEF-989E-D62C9677BFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{416CC5C6-4422-4FEF-989E-D62C9677BFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{416CC5C6-4422-4FEF-989E-D62C9677BFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{416CC5C6-4422-4FEF-989E-D62C9677BFB5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2F8D18BC-58A1-4213-AADF-7673DDD05847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2F8D18BC-58A1-4213-AADF-7673DDD05847}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F8D18BC-58A1-4213-AADF-7673DDD05847}.Release|Any CPU.ActiveCfg = Release|Any CPU
